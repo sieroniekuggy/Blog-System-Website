@@ -8,12 +8,3 @@
 6. configure database
 7. php artisan key:generate
 8. php artisan serve
-
-______________________________________
-
-POST : allow comments or not
-COMMENTS : Approve comments
-IMAGE : not shown in browser
-
-
-https://www.youtube.com/watch?v=GSHzCcPsIOY
